@@ -83,7 +83,7 @@ Then open the local UI in your browser.
 
 ## 💬 How to Use
 
-1. Enter Wikipedia pages in the UI (e.g., `Paris, Lagos, Lao`)
+1. Enter Wikipedia pages in the UI (e.g., `Paris, London`)
 2. The assistant indexes those pages
 3. Ask questions — the agent retrieves context and answers
 
